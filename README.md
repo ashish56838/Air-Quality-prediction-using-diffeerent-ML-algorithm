@@ -1,1 +1,8 @@
 # Air-Quality-prediction-using-different-ML-algorithms
+With the advent of industrialization, concerns regarding environmental pollution have escalated significantly. A compelling WHO report has underscored the staggering toll of air pollution, revealing that 7 million lives are prematurely cut short annually due to its effects. As elucidated by a notable New York Times article, India's air pollution has ascended to a point where it rivals the notorious air quality crisis in China, a nation renowned for its severe pollution issues.
+
+In the face of these alarming statistics, this dataset emerges as a crucial instrument for delving into the depths of India's air pollution levels, unravelling nuances at a remarkably detailed level. This dataset amalgamates data across various years and states, offering a coherent and meticulously processed repository of historical daily ambient air quality data. Sourced from India's Ministry of Environment and Forests and the Central Pollution Control Board, this dataset falls under the purview of the National Data Sharing and Accessibility Policy (NDSAP), ensuring transparency and accessibility.
+
+A particularly compelling application of this dataset is in visualizing the mean Respirable Suspended Particulate Matter (RSPM) values over the years. Beyond simple representation, this dataset invites a myriad of exploratory questions: Can we discern distinct local trends in air quality? Is it possible to correlate shifts in air quality with the evolution of environmental policies within India?
+
+By leveraging this dataset, researchers and analysts can potentially unlock insights that transcend numbers and statistics, shedding light on the complex interplay between air quality, policy, and public health in India.
