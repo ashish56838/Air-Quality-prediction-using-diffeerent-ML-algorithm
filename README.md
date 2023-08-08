@@ -1,1 +1,1 @@
-# Air-Quality-prediction-using-diffeerent-ML-algorithm
+# Air-Quality-prediction-using-different-ML-algorithms
